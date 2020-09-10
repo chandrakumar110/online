@@ -1,0 +1,76 @@
+body{
+	color:black;
+	display: inline;
+}
+header{
+	background: black;
+	padding: 20px 20px 20px 20px;
+	margin-top: -20px;
+	
+	border-bottom:blue 10px solid;
+}
+header h1{
+	color:white;
+	margin-left: 50px;
+}
+#over {
+    color: gold;
+}
+ header a{
+	color:blue;
+}
+ header a:hover{
+	color:gold;
+}
+a{
+	text-decoration: none;
+}
+header h3{
+	margin:0;
+	padding: 0 20px 0 20px;
+	float:left;
+}
+header nav{
+	float:right;
+	margin-top: -55px;
+	display:inline;
+}
+#branding{
+	text-align: center;
+}
+.showcase{
+	background-image: url('i.jfif');
+	background-image-width:100%;
+	color:white;
+	padding: 20px 0 20px 0;
+}
+.showcase a{
+	color:red;
+}
+.showcase a:hover{
+	color:blue;
+}
+
+.showcase h2{
+	margin-left: 20px;
+}
+.showcase form{
+	margin-left: 410px;
+}
+.data{
+	background:grey;
+	padding-top: 30px;
+	padding-left:30px;
+}
+.data a:hover{
+	color:white;
+}
+.data a{
+	color:yellow;
+}
+footer{
+	background: url('images.jfif');
+    padding-top: 10px;margin-bottom:-10px;
+    color:white;
+
+}
